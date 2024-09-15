@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258411987564",
+    "project_id": "traction-tracker",
+    "storage_bucket": "traction-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258411987564:android:b430e5770b5bee7c820e49",
+        "android_client_info": {
+          "package_name": "com.leveltwenty.traction_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH9pgZcpjYwKGq9bqKtoZYJeG13_Ao4sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
